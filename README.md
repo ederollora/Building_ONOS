@@ -156,6 +156,54 @@ cd ~/onos
 bazel build onos
 ```
 
+When the building ends the output should show some text that can be closely compared to this one:
+```console
+  (...)
+  bazel-bin/models/polatis/onos-models-polatis-oar.oar
+  bazel-bin/models/ciena/waveserverai/onos-models-ciena-waveserverai-oar.oar
+INFO: Elapsed time: 1775.666s, Critical Path: 579.17s
+INFO: 2506 processes: 2127 linux-sandbox, 2 local, 377 worker.
+INFO: Build completed successfully, 2668 total actions
+```
+
+You can now run ONOS with this command:
+```console
+bazel run onos-local -- clean debug
+```
+
+After some seconds (40 or more), open another terminal and run this command to connect to the CLI:
+```console
+~$ cd ~/onos
+~$ tools/test/bin/onos localhost
+
+Welcome to Open Network Operating System (ONOS)!
+     ____  _  ______  ____     
+    / __ \/ |/ / __ \/ __/   
+   / /_/ /    / /_/ /\ \     
+   \____/_/|_/\____/___/     
+                               
+Documentation: wiki.onosproject.org      
+Tutorials:     tutorials.onosproject.org 
+Mailing lists: lists.onosproject.org     
+
+Come help out! Find out how at: contribute.onosproject.org 
+
+Hit '<tab>' for a list of available commands
+and '[cmd] --help' for help on a specific command.
+Hit '<ctrl-d>' or type 'logout' to exit ONOS session.
+
+eoza@root > apps -s -a                                                                           16:12:04
+*  15 org.onosproject.optical-model        2.3.0    Optical Network Model
+*  33 org.onosproject.drivers              2.3.0    Default Drivers
+*  42 org.onosproject.gui2                 2.3.0    ONOS GUI2
+*  54 org.onosproject.hostprovider         2.3.0    Host Location Provider
+*  55 org.onosproject.lldpprovider         2.3.0    LLDP Link Provider
+*  56 org.onosproject.openflow-base        2.3.0    OpenFlow Base Provider
+*  57 org.onosproject.openflow             2.3.0    OpenFlow Provider Suite
+
+eoza@root >  
+```
+
 ## Create apps
 
 For now, refer to [this website](https://wiki.onosproject.org/display/ONOS/Template+Application+Tutorial#TemplateApplicationTutorial-GenerateanewbaseONOSapplicationproject). I will try to sum the steps soon. To make sure that the steps works fine, you might still need to install Apache Karaf and Maven as described in previous Wiki versions [like this one](https://wiki.onosproject.org/display/ONOS15/Installing+and+Running+ONOS) (refer only to "Install Karaf, Maven:" part). I am not complete aware of how app creation is done anymore (give me a couple of days) but I guess either with onos-create-app or importing ~/onos to Jetbrains IntelliJ IDEA and creatin
