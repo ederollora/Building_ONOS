@@ -106,7 +106,7 @@ Give run permissions and install it:
 ```console
 cd ~/Downloads
 chmod +x bazel-1.0.0-installer-linux-x86_64.sh
-./ bazel-1.0.0-installer-linux-x86_64.sh --user
+./bazel-1.0.0-installer-linux-x86_64.sh --user
 ```
 
 After installing it, add `$HOME/bin` to your PATH variable and source the `bazel-complete.bash` file. We add it to .bashrc and source it afterwards:
