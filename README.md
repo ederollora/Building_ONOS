@@ -19,6 +19,8 @@ I have made a script to buila all combinations of ONOS (1.14.0 to 2.3.0), Bazel 
 
 To sum it up, I have only been able to build ONOS tags 2.2.1 and 2.3.0 using Bazel 1.x.x version (Ubuntu 18). I have not been able to build any other ONOS version from 1.14.0. If you managed to, let me know and I will include it. You can check my tests in `built_versions.txt` file. I am planning to add the testing script and automated installing script too. You might find soon the specific building errors in each of the tests found in `built_versions.txt` file. If you feel like I have errors please send me an email to eoza@fotonik.dtu.dk so I can correct the errors.  
 
+EDIT: Please check message from ONF for futher tools like Bazelisk regarding Bazel and ONOS: [onos-dev bazelisk](https://groups.google.com/a/onosproject.org/forum/?utm_medium=email&utm_source=footer#!topic/onos-dev/u5YydL1iw8g)
+
 # [METHOD 1] Installing ONOS in your Ubuntu 16/18:
 
 What to instal?
