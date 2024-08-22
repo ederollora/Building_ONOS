@@ -1,0 +1,272 @@
+
+BUILT with (java 8)-(bazel 0.27.0)-(onos 1.14.0): WRONG
+
+BUILT with (java 8)-(bazel 0.27.0)-(onos 1.14.1): WRONG
+
+BUILT with (java 8)-(bazel 0.27.0)-(onos 1.15.0): WRONG
+
+BUILT with (java 8)-(bazel 0.27.0)-(onos 2.0.0): WRONG
+
+BUILT with (java 8)-(bazel 0.27.0)-(onos 2.1.0): WRONG
+
+BUILT with (java 11)-(bazel 0.27.0)-(onos 2.2.0): WRONG
+
+BUILT with (java 11)-(bazel 0.27.0)-(onos 2.2.1): WRONG
+
+BUILT with (java 11)-(bazel 0.27.0)-(onos 2.3.0): WRONG
+
+BUILT with (java 8)-(bazel 0.27.1)-(onos 1.14.0): WRONG
+
+BUILT with (java 8)-(bazel 0.27.1)-(onos 1.14.1): WRONG
+
+BUILT with (java 8)-(bazel 0.27.1)-(onos 1.15.0): WRONG
+
+BUILT with (java 8)-(bazel 0.27.1)-(onos 2.0.0): WRONG
+
+BUILT with (java 8)-(bazel 0.27.1)-(onos 2.1.0): WRONG
+
+BUILT with (java 11)-(bazel 0.27.1)-(onos 2.2.0): WRONG
+
+BUILT with (java 11)-(bazel 0.27.1)-(onos 2.2.1): WRONG
+
+BUILT with (java 11)-(bazel 0.27.1)-(onos 2.3.0): WRONG
+
+BUILT with (java 8)-(bazel 0.27.2)-(onos 1.14.0): WRONG
+
+BUILT with (java 8)-(bazel 0.27.2)-(onos 1.14.1): WRONG
+
+BUILT with (java 8)-(bazel 0.27.2)-(onos 1.15.0): WRONG
+
+BUILT with (java 8)-(bazel 0.27.2)-(onos 2.0.0): WRONG
+
+BUILT with (java 8)-(bazel 0.27.2)-(onos 2.1.0): WRONG
+
+BUILT with (java 11)-(bazel 0.27.2)-(onos 2.2.0): WRONG
+
+BUILT with (java 11)-(bazel 0.27.2)-(onos 2.2.1): WRONG
+
+BUILT with (java 11)-(bazel 0.27.2)-(onos 2.3.0): WRONG
+
+BUILT with (java 8)-(bazel 0.28.0)-(onos 1.14.0): WRONG
+
+BUILT with (java 8)-(bazel 0.28.0)-(onos 1.14.1): WRONG
+
+BUILT with (java 8)-(bazel 0.28.0)-(onos 1.15.0): WRONG
+
+BUILT with (java 8)-(bazel 0.28.0)-(onos 2.0.0): WRONG
+
+BUILT with (java 8)-(bazel 0.28.0)-(onos 2.1.0): WRONG
+
+BUILT with (java 11)-(bazel 0.28.0)-(onos 2.2.0): WRONG
+
+BUILT with (java 11)-(bazel 0.28.0)-(onos 2.2.1): WRONG
+
+BUILT with (java 11)-(bazel 0.28.0)-(onos 2.3.0): WRONG
+
+BUILT with (java 8)-(bazel 0.28.1)-(onos 1.14.0): WRONG
+
+BUILT with (java 8)-(bazel 0.28.1)-(onos 1.14.1): WRONG
+
+BUILT with (java 8)-(bazel 0.28.1)-(onos 1.15.0): WRONG
+
+BUILT with (java 8)-(bazel 0.28.1)-(onos 2.0.0): WRONG
+
+BUILT with (java 8)-(bazel 0.28.1)-(onos 2.1.0): WRONG
+
+BUILT with (java 11)-(bazel 0.28.1)-(onos 2.2.0): WRONG
+
+BUILT with (java 11)-(bazel 0.28.1)-(onos 2.2.1): WRONG
+
+BUILT with (java 11)-(bazel 0.28.1)-(onos 2.3.0): WRONG
+
+BUILT with (java 8)-(bazel 0.29.0)-(onos 1.14.0): WRONG
+
+BUILT with (java 8)-(bazel 0.29.0)-(onos 1.14.1): WRONG
+
+BUILT with (java 8)-(bazel 0.29.0)-(onos 1.15.0): WRONG
+
+BUILT with (java 8)-(bazel 0.29.0)-(onos 2.0.0): WRONG
+
+BUILT with (java 8)-(bazel 0.29.0)-(onos 2.1.0): WRONG
+
+BUILT with (java 11)-(bazel 0.29.0)-(onos 2.2.0): WRONG
+
+BUILT with (java 11)-(bazel 0.29.0)-(onos 2.2.1): WRONG
+
+BUILT with (java 11)-(bazel 0.29.0)-(onos 2.3.0): WRONG
+
+BUILT with (java 8)-(bazel 0.29.1)-(onos 1.14.0): WRONG
+
+BUILT with (java 8)-(bazel 0.29.1)-(onos 1.14.1): WRONG
+
+BUILT with (java 8)-(bazel 0.29.1)-(onos 1.15.0): WRONG
+
+BUILT with (java 8)-(bazel 0.29.1)-(onos 2.0.0): WRONG
+
+BUILT with (java 8)-(bazel 0.29.1)-(onos 2.1.0): WRONG
+
+BUILT with (java 11)-(bazel 0.29.1)-(onos 2.2.0): WRONG
+
+BUILT with (java 11)-(bazel 0.29.1)-(onos 2.2.1): WRONG
+
+BUILT with (java 11)-(bazel 0.29.1)-(onos 2.3.0): WRONG
+
+BUILT with (java 8)-(bazel 1.0.0)-(onos 1.14.0): WRONG
+
+BUILT with (java 8)-(bazel 1.0.0)-(onos 1.14.1): WRONG
+
+BUILT with (java 8)-(bazel 1.0.0)-(onos 1.15.0): WRONG
+
+BUILT with (java 8)-(bazel 1.0.0)-(onos 2.0.0): WRONG
+
+BUILT with (java 8)-(bazel 1.0.0)-(onos 2.1.0): WRONG
+
+BUILT with (java 11)-(bazel 1.0.0)-(onos 2.2.0): WRONG
+
+BUILT with (java 11)-(bazel 1.0.0)-(onos 2.2.1): CORRECT
+
+BUILT with (java 11)-(bazel 1.0.0)-(onos 2.3.0): CORRECT
+
+BUILT with (java 8)-(bazel 1.0.1)-(onos 1.14.0): WRONG
+
+BUILT with (java 8)-(bazel 1.0.1)-(onos 1.14.1): WRONG
+
+BUILT with (java 8)-(bazel 1.0.1)-(onos 1.15.0): WRONG
+
+BUILT with (java 8)-(bazel 1.0.1)-(onos 2.0.0): WRONG
+
+BUILT with (java 8)-(bazel 1.0.1)-(onos 2.1.0): WRONG
+
+BUILT with (java 11)-(bazel 1.0.1)-(onos 2.2.0): WRONG
+
+BUILT with (java 11)-(bazel 1.0.1)-(onos 2.2.1): CORRECT
+
+BUILT with (java 11)-(bazel 1.0.1)-(onos 2.3.0): CORRECT
+
+BUILT with (java 8)-(bazel 1.1.0)-(onos 1.14.0): WRONG
+
+BUILT with (java 8)-(bazel 1.1.0)-(onos 1.14.1): WRONG
+
+BUILT with (java 8)-(bazel 1.1.0)-(onos 1.15.0): WRONG
+
+BUILT with (java 8)-(bazel 1.1.0)-(onos 2.0.0): WRONG
+
+BUILT with (java 8)-(bazel 1.1.0)-(onos 2.1.0): WRONG
+
+BUILT with (java 11)-(bazel 1.1.0)-(onos 2.2.0): WRONG
+
+BUILT with (java 11)-(bazel 1.1.0)-(onos 2.2.1): CORRECT
+
+BUILT with (java 11)-(bazel 1.1.0)-(onos 2.3.0): CORRECT
+
+BUILT with (java 8)-(bazel 1.2.0)-(onos 1.14.0): WRONG
+
+BUILT with (java 8)-(bazel 1.2.0)-(onos 1.14.1): WRONG
+
+BUILT with (java 8)-(bazel 1.2.0)-(onos 1.15.0): WRONG
+
+BUILT with (java 8)-(bazel 1.2.0)-(onos 2.0.0): WRONG
+
+BUILT with (java 8)-(bazel 1.2.0)-(onos 2.1.0): WRONG
+
+BUILT with (java 11)-(bazel 1.2.0)-(onos 2.2.0): WRONG
+
+BUILT with (java 11)-(bazel 1.2.0)-(onos 2.2.1): CORRECT
+
+BUILT with (java 11)-(bazel 1.2.0)-(onos 2.3.0): CORRECT
+
+BUILT with (java 8)-(bazel 1.2.1)-(onos 1.14.0): WRONG
+
+BUILT with (java 8)-(bazel 1.2.1)-(onos 1.14.1): WRONG
+
+BUILT with (java 8)-(bazel 1.2.1)-(onos 1.15.0): WRONG
+
+BUILT with (java 8)-(bazel 1.2.1)-(onos 2.0.0): WRONG
+
+BUILT with (java 8)-(bazel 1.2.1)-(onos 2.1.0): WRONG
+
+BUILT with (java 11)-(bazel 1.2.1)-(onos 2.2.0): WRONG
+
+BUILT with (java 11)-(bazel 1.2.1)-(onos 2.2.1): CORRECT
+
+BUILT with (java 11)-(bazel 1.2.1)-(onos 2.3.0): CORRECT
+
+BUILT with (java 8)-(bazel 2.0.0)-(onos 1.14.0): WRONG
+
+BUILT with (java 8)-(bazel 2.0.0)-(onos 1.14.1): WRONG
+
+BUILT with (java 8)-(bazel 2.0.0)-(onos 1.15.0): WRONG
+
+BUILT with (java 8)-(bazel 2.0.0)-(onos 2.0.0): WRONG
+
+BUILT with (java 8)-(bazel 2.0.0)-(onos 2.1.0): WRONG
+
+BUILT with (java 11)-(bazel 2.0.0)-(onos 2.2.0): WRONG
+
+BUILT with (java 11)-(bazel 2.0.0)-(onos 2.2.1): WRONG
+
+BUILT with (java 11)-(bazel 2.0.0)-(onos 2.3.0): WRONG
+
+BUILT with (java 8)-(bazel 2.0.1)-(onos 1.14.0): WRONG
+
+BUILT with (java 8)-(bazel 2.0.1)-(onos 1.14.1): WRONG
+
+BUILT with (java 8)-(bazel 2.0.1)-(onos 1.15.0): WRONG
+
+BUILT with (java 8)-(bazel 2.0.1)-(onos 2.0.0): WRONG
+
+BUILT with (java 8)-(bazel 2.0.1)-(onos 2.1.0): WRONG
+
+BUILT with (java 11)-(bazel 2.0.1)-(onos 2.2.0): WRONG
+
+BUILT with (java 11)-(bazel 2.0.1)-(onos 2.2.1): WRONG
+
+BUILT with (java 11)-(bazel 2.0.1)-(onos 2.3.0): WRONG
+
+BUILT with (java 8)-(bazel 2.1.0)-(onos 1.14.0): WRONG
+
+BUILT with (java 8)-(bazel 2.1.0)-(onos 1.14.1): WRONG
+
+BUILT with (java 8)-(bazel 2.1.0)-(onos 1.15.0): WRONG
+
+BUILT with (java 8)-(bazel 2.1.0)-(onos 2.0.0): WRONG
+
+BUILT with (java 8)-(bazel 2.1.0)-(onos 2.1.0): WRONG
+
+BUILT with (java 11)-(bazel 2.1.0)-(onos 2.2.0): WRONG
+
+BUILT with (java 11)-(bazel 2.1.0)-(onos 2.2.1): WRONG
+
+BUILT with (java 11)-(bazel 2.1.0)-(onos 2.3.0): WRONG
+
+BUILT with (java 8)-(bazel 2.1.1)-(onos 1.14.0): WRONG
+
+BUILT with (java 8)-(bazel 2.1.1)-(onos 1.14.1): WRONG
+
+BUILT with (java 8)-(bazel 2.1.1)-(onos 1.15.0): WRONG
+
+BUILT with (java 8)-(bazel 2.1.1)-(onos 2.0.0): WRONG
+
+BUILT with (java 8)-(bazel 2.1.1)-(onos 2.1.0): WRONG
+
+BUILT with (java 11)-(bazel 2.1.1)-(onos 2.2.0): WRONG
+
+BUILT with (java 11)-(bazel 2.1.1)-(onos 2.2.1): WRONG
+
+BUILT with (java 11)-(bazel 2.1.1)-(onos 2.3.0): WRONG
+
+BUILT with (java 8)-(bazel 2.2.0)-(onos 1.14.0): WRONG
+
+BUILT with (java 8)-(bazel 2.2.0)-(onos 1.14.1): WRONG
+
+BUILT with (java 8)-(bazel 2.2.0)-(onos 1.15.0): WRONG
+
+BUILT with (java 8)-(bazel 2.2.0)-(onos 2.0.0): WRONG
+
+BUILT with (java 8)-(bazel 2.2.0)-(onos 2.1.0): WRONG
+
+BUILT with (java 11)-(bazel 2.2.0)-(onos 2.2.0): WRONG
+
+BUILT with (java 11)-(bazel 2.2.0)-(onos 2.2.1): WRONG
+
+BUILT with (java 11)-(bazel 2.2.0)-(onos 2.3.0): WRONG
