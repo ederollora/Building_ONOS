@@ -1,7 +1,7 @@
 
 
 
-#Building_ONOS
+# Building_ONOS
 
 The old [REDMAE.md](old/README.md), you can take a look.
 
@@ -74,17 +74,20 @@ tar -zxvf apache-karaf-3.0.3.tar.gz -C ../Applications/
 tar -zxvf apache-maven-3.3.1-bin.tar.gz -C ../Applications/ 
 ```
 
-####.bash_profile
+#### .bash_profile
 
 ```console
 export ONOS_ROOT="/home/st1/onos"
 source /home/st1/onos/tools/dev/bash_profile
 ```
 
-####.bashrc
+#### .bashrc
 
 ```console
 export ONOS_ROOT=~/onos
+
+
+
 export MAVEN=~/Applications/apache-maven-3.3.9
 export KARAF_ROOT=~/Applications/apache-karaf-3.0.8
 export ONOS_APPS=drivers,openflow,proxyarp,fwd,gui2,hostprovider,lldpprovider
@@ -111,8 +114,7 @@ mvn clean install
 ```
 
  
-#### tools/test/bin/onos locahost
-#### Password?
+#### CLI
 
 ```console
 tools/test/bin/onos locahost 
